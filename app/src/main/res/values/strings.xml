@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EjemploActividades</string>
+    <string name="number_a_value">number_a_value</string>
+    <string name="number_sum_value">number_sum_value</string>
+    <string name="suma">+</string>
+    <string name="sumar">Sumar</string>
+    <string name="raiz">Raíz</string>
 </resources>
