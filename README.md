@@ -1,2 +1,3 @@
 # EjemploActividades
-app/src/main/res/drawable/EjemploActividades.png
+![Alt Text](app/src/main/res/drawable/EjemploActividades.png)
+
